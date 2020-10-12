@@ -1,5 +1,3 @@
-# empty_template
-
 A new Flutter project.
 
 ## Getting Started
